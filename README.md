@@ -12,7 +12,7 @@ Final project submission for ECE 1310 - C for Engineers
   - Number of players at each position (QB, WR, RB, TE, K, DEF)
 - Assigns a draft grade (A–F) based on total team value.
 
-Exampe Output:
+Example Output:
 ```text
 ============================================================
           Draft Grade: A
