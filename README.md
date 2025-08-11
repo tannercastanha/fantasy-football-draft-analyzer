@@ -2,6 +2,7 @@
 **Author**: Tanner Castanha
 
 C++ program that analyzes a fantasy football team by calculating draft value, average age, positional balance, and assigns a final grade.
+Final project submission for ECE 1310 - C for Engineers
 
 - Accepts a user-defined fantasy football roster of 15 players.
 - Validates and matches player names against a database of 250+ NFL players.
